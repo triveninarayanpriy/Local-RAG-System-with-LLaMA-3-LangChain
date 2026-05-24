@@ -38,7 +38,7 @@ without sending data to the cloud. Built with modern LCEL.
 ## 🚀 Getting Started
 
 1. Clone the repo
-   git clone https://github.com/your-username/local-rag-llama3.git
+   git clone [https://github.com/your-username/local-rag-llama3.git](https://github.com/triveninarayanpriy/Local-RAG-System-with-LLaMA-3-LangChain)
 
 2. Install dependencies
    pip install langchain langchain-community chromadb pypdf ollama
